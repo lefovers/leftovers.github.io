@@ -6,6 +6,6 @@ function showGif() {
 
 function replaceButton() {
     document.getElementById("no-button").style.display = "none";
-    document.getElementById("yes-button").innerHTML = "CHU MUFT SAY YES!!!";
+    document.getElementById("yes-button").innerHTML = "YOU MUST SAY YESSSS OWO!!!";
     document.getElementById("result").innerHTML = "<p> MEGA ANGY T^T </p>";
 }
